@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Artec>
+	<Archive Version="2" Signature="0" />
+	<Author Software="Scanner" Version="12.1.1.12" Author="Artec Group 3D Scanning Software and Solutions" Date="4/6/2018 11:39:31 AM" />
+	<Comment>www.artec-group.com</Comment>
+	<Content SurfaceFormat="2" TransformFormat="0" Encryption="0" Digest="0" Flags="6" DataType="1" />
+	<Scan Name="Sharp fusion1" Items="1" Device="SP.10.68891231" DepthCameraType="1" TextureCameraType="1" TextureGain="2.073564" TextureIllumination="7.762710">
+		<Textured />
+	</Scan>
+</Artec>
